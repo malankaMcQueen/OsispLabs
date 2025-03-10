@@ -1,0 +1,4 @@
+echo send from file
+echo qqqqqqeeeee
+info
+echo end send from file
